@@ -191,68 +191,75 @@ $('#inputPassword').keypress(function(e) {
 
 
 //BUTTON CLICKS
-$('#Noriyuki').on('click', function() {
-    var routing_key = "R029EEBH6U7LQGKATM5A1CS291C8F6SO"
+$('#Adam').on('click', function() {
+    var routing_key = "R026OOHUZKN7419VMFCMAQX2W18STBZ2"
 
     Notification()
     TriggerEvents(routing_key)
 });
-$('#Aya').on('click', function() {
-    var routing_key = "R02I60HM2WNL7XBQ12V4Z9D5E1I6MJVI"
+$('#Dennis').on('click', function() {
+    var routing_key = "R02FVSO2H8KG1ZW1G14MNPAHL1F2SIRE"
    
    Notification()
    TriggerEvents(routing_key)
 });
-$('#Sam').on('click', function() {
-    var routing_key = "R028CVUPCPSE8XFWDIOTCPHV606PO10G"
+$('#Jeff').on('click', function() {
+    var routing_key = "R022CNJ5JAVU09PJ2V4WLXF5N1PZAMJZ"
    
    Notification()
    TriggerEvents(routing_key)
 });
-$('#Connor').on('click', function() {
-    var routing_key = "R024VHZPRWFIVXJAQCCJBI3HM182F4WD"
+$('#Andrew').on('click', function() {
+    var routing_key = "R021R4EQ7EK8957BRZ7L5WA2K1OE8UXG"
    
    Notification()
    TriggerEvents(routing_key)
 });
-$('#Junko').on('click', function() {
-    var routing_key = "R02C88EKEAFXH6CNCDO7WJ73W0P49X7Q"
+$('#Jess').on('click', function() {
+    var routing_key = "R022FVEF8NS9QWCP45GSLMFQ61BB1OM2"
    
    Notification()
    TriggerEvents(routing_key)
 });
-$('#Suzanne').on('click', function() {
-    var routing_key = "R026MLR0AYVFCY1T01BRM631Y1HJAZ7Y"
+$('#Andres').on('click', function() {
+    var routing_key = "R029CN5CVRSCEHA59RE7VM7FH1ROC80H"
    
    Notification()
    TriggerEvents(routing_key)
 });
-$('#Kiyotaka').on('click', function() {
-    var routing_key = "R02JE5K3JIW94KRIA4CY10P7M1N6RMHW"
+$('#Arden').on('click', function() {
+    var routing_key = "R0266NO1Y0TWNIF2FXUGJYYFT0X25INE"
    
    Notification()
    TriggerEvents(routing_key)
 });
-$('#Ariel').on('click', function() {
-    var routing_key = "R02BVVP37C8FXCXTYC3T8EOK90TUG0S1"
+$('#ChrisP').on('click', function() {
+    var routing_key = "R02AJXUUNXDSRF22ZXBR9U9581VSH57L"
    
    Notification()
    TriggerEvents(routing_key)
 });
-$('#Joshua').on('click', function() {
-    var routing_key = "R02GHZ691W67EX06NWN7OR3UZ1KDF9KV"
+$('#Brian').on('click', function() {
+    var routing_key = "R02FID6H1D77YD248Y5PEZNSE1X01JHD"
    
    Notification()
    TriggerEvents(routing_key)
 });
-$('#Victoria').on('click', function() {
-    var routing_key = "R028MN6ENSAON8ZQQ8TAVK99T0RIXOZ7"
+$('#Will').on('click', function() {
+    var routing_key = "R0210U4AQVKV7ZSNNRJPO5QGO0OUDOGU"
    
    Notification()
    TriggerEvents(routing_key)
 });
+$('#ChrisT').on('click', function() {
+    var routing_key = "R02EU8BFBUM8NNCOQE3XGZ73F0GYLA12"
+
+    Notification()
+    TriggerEvents(routing_key)
+});
+
 $('#Sarah').on('click', function() {
-    var routing_key = "R02GVJ7SXRP7WNDQH55KV94JE0SBAQ0P"
+    var routing_key = ""
 
     Notification()
     TriggerEvents(routing_key)
