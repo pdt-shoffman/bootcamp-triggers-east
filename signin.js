@@ -191,75 +191,33 @@ $('#inputPassword').keypress(function(e) {
 
 
 //BUTTON CLICKS
-$('#Adam').on('click', function() {
-    var routing_key = "R026OOHUZKN7419VMFCMAQX2W18STBZ2"
+$('#Chris').on('click', function() {
+    var routing_key = "R02JG2O8ZX6WKEZNQ4HQRPZLL1PRVUKN"
 
     Notification()
     TriggerEvents(routing_key)
 });
-$('#Dennis').on('click', function() {
-    var routing_key = "R02FVSO2H8KG1ZW1G14MNPAHL1F2SIRE"
+$('#Giran').on('click', function() {
+    var routing_key = "R021YXS4WL21CGINT7Z3BINEL0RB7YGO"
    
    Notification()
    TriggerEvents(routing_key)
 });
-$('#Jeff').on('click', function() {
-    var routing_key = "R022CNJ5JAVU09PJ2V4WLXF5N1PZAMJZ"
+$('#Faez').on('click', function() {
+    var routing_key = "R020ECIXPVBAR7X8RM6UUKQKE1OC3D1D"
    
    Notification()
    TriggerEvents(routing_key)
 });
-$('#Andrew').on('click', function() {
-    var routing_key = "R021R4EQ7EK8957BRZ7L5WA2K1OE8UXG"
+$('#Quin').on('click', function() {
+    var routing_key = "R029BI0ZLI7KVFPMFL5EFWGHG1L7UWZJ"
    
    Notification()
    TriggerEvents(routing_key)
-});
-$('#Jess').on('click', function() {
-    var routing_key = "R022FVEF8NS9QWCP45GSLMFQ61BB1OM2"
-   
-   Notification()
-   TriggerEvents(routing_key)
-});
-$('#Andres').on('click', function() {
-    var routing_key = "R029CN5CVRSCEHA59RE7VM7FH1ROC80H"
-   
-   Notification()
-   TriggerEvents(routing_key)
-});
-$('#Arden').on('click', function() {
-    var routing_key = "R0266NO1Y0TWNIF2FXUGJYYFT0X25INE"
-   
-   Notification()
-   TriggerEvents(routing_key)
-});
-$('#ChrisP').on('click', function() {
-    var routing_key = "R02AJXUUNXDSRF22ZXBR9U9581VSH57L"
-   
-   Notification()
-   TriggerEvents(routing_key)
-});
-$('#Brian').on('click', function() {
-    var routing_key = "R02FID6H1D77YD248Y5PEZNSE1X01JHD"
-   
-   Notification()
-   TriggerEvents(routing_key)
-});
-$('#Will').on('click', function() {
-    var routing_key = "R0210U4AQVKV7ZSNNRJPO5QGO0OUDOGU"
-   
-   Notification()
-   TriggerEvents(routing_key)
-});
-$('#ChrisT').on('click', function() {
-    var routing_key = "R02EU8BFBUM8NNCOQE3XGZ73F0GYLA12"
-
-    Notification()
-    TriggerEvents(routing_key)
 });
 
 $('#Sarah').on('click', function() {
-    var routing_key = ""
+    var routing_key = "R02GVJ7SXRP7WNDQH55KV94JE0SBAQ0P"
 
     Notification()
     TriggerEvents(routing_key)
